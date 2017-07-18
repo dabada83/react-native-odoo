@@ -19,12 +19,12 @@
   "keywords": [
     "odoo",
     "openerp",
-    "jsonrpc"
+    "jsonrpc",
     "react-native"
   ],
   "author": {
-    "name": "Kevin Wang",
-    "email": "kevin_327@163.com"
+    "name": "Diego Abad",
+    "email": "dabada83@gmail.com"
   },
   "bugs": {
     "url": "https://github.com/dabada83/react-native-odoo/issues"
