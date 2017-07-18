@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/dabada83/react-native-odoo",
   "dependencies": {
-    "whatwg-fetch": "github/fetch"
+    "request": "2.81.0"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
